@@ -50,15 +50,15 @@
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnan123456a&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=cccccc&icon_color=bbbbbb&text_color=cccccc" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanisagoodboy&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=cccccc&icon_color=bbbbbb&text_color=cccccc" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan123456a&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=cccccc&text_color=cccccc" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanisagoodboy&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=cccccc&text_color=cccccc" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnan123456a&theme=dracula&hide_border=true&background=0d1117&stroke=222222&ring=cccccc&fire=cccccc&currStreakNum=cccccc&sideNums=cccccc&currStreakLabel=cccccc&sideLabels=cccccc&dates=cccccc" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanisagoodboy&theme=dracula&hide_border=true&background=0d1117&stroke=222222&ring=cccccc&fire=cccccc&currStreakNum=cccccc&sideNums=cccccc&currStreakLabel=cccccc&sideLabels=cccccc&dates=cccccc" alt="Streak Stats" />
 </p>
 
 <hr style="border: 0; height: 1px; background: #333; background-image: linear-gradient(to right, #111, #444, #111);">
