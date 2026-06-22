@@ -72,10 +72,17 @@
     <th style="padding: 12px; border: 1px solid #333; color: #ccc;">Repository</th>
   </tr>
   <tr>
-    <td style="padding: 12px; border: 1px solid #333;">Arc-OS</td>
-    <td style="padding: 12px; border: 1px solid #333;">Browser-based Linux-like operating system environment</td>
+    <td style="padding: 12px; border: 1px solid #333;">Commex</td>
+    <td style="padding: 12px; border: 1px solid #333;">A disqus alternative commenting platform</td>
     <td style="padding: 12px; border: 1px solid #333; text-align: center;">
-      <a href="https://github.com/adnan123456a/Arc-OS">→ GitHub</a>
+      <a href="https://github.com/OpenCommex/Commex">→ GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 12px; border: 1px solid #333;">WPSent</td>
+    <td style="padding: 12px; border: 1px solid #333;">Unofficial Whatsapp API platform</td>
+    <td style="padding: 12px; border: 1px solid #333; text-align: center;">
+      <a href="https://github.com/wpsent/wpsent">→ GitHub</a>
     </td>
   </tr>
   <tr style="background: #0d1117;">
