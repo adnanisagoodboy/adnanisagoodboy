@@ -102,7 +102,7 @@
   <a href="https://www.facebook.com/adnanisagoodboy" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=222222" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/adnand.luffy" target="_blank">
+  <a href="https://www.instagram.com/adnanisagoodboy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=222222" alt="Instagram" />
   </a>
   <a href="mailto:abdullahaladnan95@gmail.com" target="_blank">
@@ -113,3 +113,15 @@
 <p align="center">
   <em>Writing clean code • Building reliable systems</em>
 </p>
+
+---
+### Cryptographic Identifiers
+
+Feel free to verify my commits or send me encrypted communications using my public keys.
+
+| Key Type | Key ID / Fingerprint | Status |
+| :--- | :--- | :--- |
+| **GPG Public Key** | `0FC0 6492 D345 8BCA 4FCD EEFB 3119 2D9C 973C 4F11` | ![Verified](https://shields.io) |
+| **SSH Authentication** | `ed25519` (Elliptic Curve) | ![Active](https://shields.io) |
+
+---
